@@ -2,7 +2,7 @@
 
 _Install .tar.gz binary applications via npm_
 
-Ruthlessly copied from [cloudflare/binary-install](https://github.com/cloudflare/binary-install) and removed functionality to save binary to `bin` directory to support jlink binaries. And translated to Typescript.
+Ruthlessly copied from [cloudflare/binary-install](https://github.com/cloudflare/binary-install) and removed functionality of saving binary to `bin` directory to support jlink binaries. And translated to Typescript.
 
 #### For more info:
 
